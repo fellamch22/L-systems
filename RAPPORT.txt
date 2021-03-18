@@ -1,0 +1,49 @@
+1 - Membres de l'équipe :
+
+        Nom            |      Prenom      |    Pseudo GitLab   |    Numero d'etudiant 
+    -------------------|------------------|--------------------|----------------------
+       MECHOUAR        |      FELLA       |     @mechouar      |     21964933
+                       |                  |                    |
+        SU             |      LI-FANG     |     @su            |     21957835
+        
+
+2 - Fonctionnalités implémentées : 
+
+Donnez une description précise des fonctionnalités 
+par votre rendu - sujet minimal, extensions éventuelles,
+éventuellement parties non réalisées ou non encore fonctionnelles.
+a- 
+
+3 - Compilation et exécution
+Documentez ensuite de façon précise la manière dont votre
+projet doit être compilé et exécuté. Précisez si vous vous êtes
+servi de bibliothèques externes, et donnez dans ce cas un pointeur
+vers leur documentation.
+
+    Pour lancer le programme sur votre machine veuillez suivre les instructions :
+    - Exécutez la commande make 
+    - Exécutez  ./run --open examples/nom_du_fichier --iter nb_iterations -s échelle
+    Exemple :
+     ./run --open examples/sierpinski1.sys --iter 6
+     ./run --open examples/sierpinski1.sys --iter 6 -s 2
+     ./run --open examples/br1.sys --iter 6 -s 3
+    
+
+
+4 - Découpage modulaire)
+Donnez une description des traitements pris en charge par chaque
+module (.ml) de votre projet. Précisez le rôle et la nécessité
+de chaque module ajouté au dépôt initial.
+
+
+5 - Organisation du travail 
+Cette partie est plus libre dans sa forme. Indiquez la manière
+dont les tâches ont été réparties entre les membres du groupe
+au cours du temps. Donnez une brève chronologie de votre travail
+sur ce projet au cours de ce semestre, avant et après le
+confinement.
+
+
+(Misc)
+Cette partie est entièrement libre : remarques, suggestions,
+questions...
