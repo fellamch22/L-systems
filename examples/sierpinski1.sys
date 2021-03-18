@@ -1,0 +1,10 @@
+### triangle de sierpinski1
+A-B-B
+
+A A-B+A+B-A
+B BB
+
+A L10
+B L10
++ T120
+- T-120
